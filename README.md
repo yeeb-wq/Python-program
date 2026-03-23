@@ -1,17 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Traffic%20Flow%20Analyzer&fontSize=42&fontColor=fff&fontAlignY=38&desc=Traffic%20Flow%20Analysis%20%26%20Management%20System&descSize=16&descAlignY=62&descColor=d4b8ff" width="100%" />
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-
-</div>
-
----
-
 ## 🚦 About
 A Python-based program that analyses vehicle movement at road junctions and generates histogram-based visualisations to support traffic pattern evaluation and management decisions.
 
